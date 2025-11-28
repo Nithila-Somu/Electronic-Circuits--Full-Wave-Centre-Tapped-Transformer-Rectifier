@@ -65,5 +65,6 @@ To simulate a Full wave Centre Tapped Transformer rectifier circuit and compare 
 
 ## RESULT:
 
- <img width="1280" height="368" alt="image" src="https://github.com/user-attachments/assets/5cb7b603-1b41-462f-b338-ded15a97f0ba" />
+ ![WhatsApp Image 2025-11-28 at 5 54 50 PM](https://github.com/user-attachments/assets/68f9f4f3-5d65-4159-9604-5697dce141f6)
+
 
